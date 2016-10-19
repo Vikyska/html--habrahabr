@@ -80,7 +80,16 @@
       </nav>
       </aside>
 
-               <footer>
+               <ul>
+                        <li><a href="#">link1</a><span></span>
+                        <li><a href="#">link2</a><span></span>
+                        <li><a href="#">link3</a><span></span>
+                        <li><a href="#">link4</a><span></span>
+                        <li><a href="#">link5</a><span></span>
+                    </ul>
+                </aside>
+            </aside>
+            <footer>
                 <section>
                     <h1>Интересные публикации</h1>
                     <form action="#">
