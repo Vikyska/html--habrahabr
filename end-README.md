@@ -98,6 +98,7 @@
                             <span>47</span>
                             <span>125</span>
                         </article>
+<article>
 <footer>
                 <section>
                     <h1>Интересные публикации</h1>
@@ -111,19 +112,13 @@
                         <li><a href="#">link3</a><span>8</span>
                     </ul>
                 </section>
-                <article>
-                    <!-- Yandex Direct adv -->
-                </article>
-            </footer>
+        </footer>
         </article>
         <footer>
-            <section>
                     <ul>
                         <li><a href="#">Войти</a>
                         <li><a href="#">Регистрация</a>
 </ul>
-
-            </section>
             <nav>
                 <h1>Разделы</h1>
                 <ul>
@@ -135,7 +130,6 @@
                     <li><a href="#">Песочница</a>
                 </ul>
             </nav>
-            <section>
                 <h1>Инфо</h1>
 <ul>
                     <li><a href="#">О сайте</a>
@@ -143,8 +137,6 @@
                     <li><a href="#">Помощь</a>
                     <li><a href="#">Соглашение</a>
                 </ul>
-            </section>
-<section>
                 <h1>Услуги</h1>
 <ul>
                     <li><a href="#">Реклама</a>
@@ -153,8 +145,6 @@
                     <li><a href="#">Контент</a>
                     <li><a href="#">Семинары</a>
             </ul>
-            </section>
-<section>
                 <h1>Разное</h1>
 <ul>
                     <li><a href="#">Приложение</a>
@@ -162,9 +152,7 @@
                     <li><a href="#">Помощь стартапам</a>
                     <li><a href="#">Работа в IT</a>
                 </ul>
-            </section>
-            <section>
-                <h1>@TM</h1>
+            
 <ul>
                     <li><a href="#">Служба поддержки</a>
                     <li><a href="#">Мобильная версия</a>
@@ -172,7 +160,6 @@
 		<li><a href=/ >fb</a>
 		<li><a href=/ >vk</a>
                 </ul>
-            </section>
         </footer>
     </main>
 </body>
