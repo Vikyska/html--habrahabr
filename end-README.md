@@ -28,18 +28,19 @@
            <h1>Разделы</h1>
                 <form action=/ >
                 <input type=text name=search placeholder=search>
-
                 <nav>
-                    <ul>
-                        <li><a href=/ >Хабрахабр</a>
-                        <li><a href=/ >Публикации</a>
-                        <li><a href=/ >Хабы</a>
-                        <li><a href=/ >Компании</a>
-                        <li><a href=/ >Пользователи</a>
-                        <li><a href=/ >Песочница</a>
-                     </ul>
-               </nav>  
-               </section>
+                <h1>Разделы</h1>
+                <ul>
+                    <li><a href="#">Публикации</a>
+                    <li><a href="#">Хабы</a>
+                    <li><a href="#">Компании</a>
+                    <li><a href="#">Пользователи</a>
+                    <li><a href="#">Q&amp;A</a>
+                    <li><a href="#">Песочница</a>
+                </ul>
+            </nav>
+
+    </section>
     </article>
     <article>            
     <header>
