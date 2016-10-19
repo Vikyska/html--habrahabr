@@ -108,7 +108,8 @@
                         <li><a href=/ >link2</a><span></span>
                         <li><a href=/ >link3</a><span></span>
                     </ul>
-                    <footer>
+                    </section>
+                    </footer>
                     <ul>
                         <li><a href=/ >Войти</a>
                         <li><a href=/ >Регистрация</a>
