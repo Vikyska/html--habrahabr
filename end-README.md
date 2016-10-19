@@ -88,28 +88,27 @@
                     <li><a href=/ role=button>Месяц</a>
                 </ul>
                     <ul>
-                        <li><a href=/ >link1</a><span></span>
-                        <li><a href=/ >link2</a><span></span>
-                        <li><a href=/ >link3</a><span></span>
-                        <li><a href=/ >link4</a><span></span>
-                        <li><a href=/ >link5</a><span></span>
+                        <li><a href=/ >link1</a><span>12</span>
+                        <li><a href=/ >link2</a><span>11</span>
+                        <li><a href=/ >link3</a><span>8</span>
+                        <li><a href=/ >link4</a><span>8</span>
+                        <li><a href=/ >link5</a><span>8</span>
                     </ul>
                 </aside>
             </article>
             <footer>
                 <section>
                     <h1>Интересные публикации</h1>
-                    <form action=/ >
+                    <form action="#">
                         <input type="checkbox" value=GT>
                         <input type="checkbox" value=HH>
                     </form>
                     <ul>
-                        <li><a href=/ >link1</a><span></span>
-                        <li><a href=/ >link2</a><span></span>
-                        <li><a href=/ >link3</a><span></span>
+                        <li><a href="#">link1</a><span>12</span>
+                        <li><a href="#">link2</a><span>11</span>
+                        <li><a href="#">link3</a><span>8</span>
                     </ul>
-                    </section>
-                    </footer>
+                </section>
                     <ul>
                         <li><a href=/ >Войти</a>
                         <li><a href=/ >Регистрация</a>
