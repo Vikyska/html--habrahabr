@@ -88,18 +88,30 @@
                     <li><a href=/ role=button>Месяц</a>
                 </ul>
                     <ul>
-                        <li><a href=/ >link1</a><span>12</span>
-                        <li><a href=/ >link2</a><span>11</span>
-                        <li><a href=/ >link3</a><span>8</span>
-                        <li><a href=/ >link4</a><span>8</span>
-                        <li><a href=/ >link5</a><span>8</span>
-                    </ul>
+                        <ul>
+                    <li>
+                        <span>
+                            +10
+                        </span>
+                        <article>
+                            <h1><a href="#" target=_blank>Бесплатные курсы......</a></h1>
+                            <span>18.8k</span>
+                            <span>47</span>
+                            <span>125</span>
+                        </article>
+
+                    <!-- next list items will have same markdown -->
+                </ul>
+                <!-- there are 2 more <ul> with same markdown -->
+            </aside>
+            <article>
+
                 </aside>
             </article>
             <footer>
                 <section>
                     <h1>Интересные публикации</h1>
-                    <form action="#">
+                   <form action="#">
                         <input type="checkbox" value=GT>
                         <input type="checkbox" value=HH>
                     </form>
