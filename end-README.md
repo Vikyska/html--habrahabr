@@ -39,12 +39,12 @@
                     <li><a href="#">Песочница</a>
                 </ul>
             </nav>
-
-    </section>
-    </article>
-    <article>            
+       </section>
+       </article>
+    
+<article>            
     <header>
-                <time datetime="2016-10-17 T22:57:00Z">17 октября 2016 в 22:57</time>
+           <time datetime="2016-10-17 T22:57:00Z">17 октября 2016 в 22:57</time>
             </header>
         <main>
         <article>
@@ -52,7 +52,7 @@
         <p>В этой статье мы рассмотрим один из вариантов реализации поведенческого шаблона проектирования Acyclic Visitor без ипользования RTTI.
         </p> 
         <figure>
-     <img src=pic_1x.png srcset="pic_2x.png 2x" alt="https://habrastorage.org/files/5c9/2bd/02e/5c92bd02e999479485082b802abe93bd.jpeg">
+     <img src=pic_1x.png srcset="pic_2x.png 2x" alt="#">
             </figure>
 </article>
             
