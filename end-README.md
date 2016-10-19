@@ -91,23 +91,16 @@
                         <ul>
                     <li>
                         <span>
-                            +10
+                            +9
                         </span>
-                        <article>
+                        
+                         <article>
                             <h1><a href="#" target=_blank>Бесплатные курсы......</a></h1>
                             <span>18.8k</span>
                             <span>47</span>
                             <span>125</span>
                         </article>
 
-                    <!-- next list items will have same markdown -->
-                </ul>
-                <!-- there are 2 more <ul> with same markdown -->
-            </aside>
-            <article>
-
-                </aside>
-            </article>
             <footer>
                 <section>
                     <h1>Интересные публикации</h1>
@@ -121,7 +114,11 @@
                         <li><a href="#">link3</a><span>8</span>
                     </ul>
                 </section>
-                    <ul>
+                    
+                       
+<footer>
+
+                        <ul>
                         <li><a href=/ >Войти</a>
                         <li><a href=/ >Регистрация</a>
                     </ul>
@@ -137,7 +134,7 @@
                 </ul>
             </nav>
             <section>
-                <h3>Инфо</h3>
+                <h2>Инфо</h2>
                 <ul>
                     <li><a href=/ >О сайте</a>
                     <li><a href=/ >Правила</a>
