@@ -79,100 +79,80 @@
       </ul>
       </nav>
       </aside>
-<article>
-     <aside>
-                    <h1>Cамое читаемое</h1>
-                     <ul>
-                    <li><a href=/ role=button>Сейчас</a>
-                    <li><a href=/ role=button>Неделя</a>
-                    <li><a href=/ role=button>Месяц</a>
-                </ul>
-                    <ul>
-                        <ul>
-                    <li>
-                        <span>
-                            +9
-                        </span>
-                        
-                         <article>
-                            <h1><a href="#" target=_blank>Бесплатные курсы......</a></h1>
-                            <span>18.8k</span>
-                            <span>47</span>
-                            <span>125</span>
-                        </article>
 
-            <footer>
+               <footer>
                 <section>
                     <h1>Интересные публикации</h1>
-                   <form action="#">
+                    <form action="#">
                         <input type="checkbox" value=GT>
                         <input type="checkbox" value=HH>
                     </form>
                     <ul>
-                        <li><a href="#">link1</a><span>12</span>
-                        <li><a href="#">link2</a><span>11</span>
-                        <li><a href="#">link3</a><span>8</span>
+                        <li><a href="#">link1</a><span></span>
+                        <li><a href="#">link2</a><span></span>
+                        <li><a href="#">link3</a><span></span>
                     </ul>
-                </section>
-                    
-                       
-<footer>
-
-                        <ul>
-                        <li><a href=/ >Войти</a>
-                        <li><a href=/ >Регистрация</a>
+                    <footer>
+            <section>
+                    <ul>
+                        <li><a href="#">Войти</a>
+                        <li><a href="#">Регистрация</a>
                     </ul>
+            </section>
             <nav>
-                <h2>Разделы</h2>
+                <h1>Разделы</h1>
                 <ul>
-                    <li><a href=/ >Публикации</a>
-                    <li><a href=/ >Хабы</a>
-                    <li><a href=/ >Компании</a>
-                    <li><a href=/ >Пользователи</a>
-                    <li><a href=/ >Q&amp;A</a>
-                    <li><a href=/ >Песочница</a>
+                    <li><a href="#">Публикации</a>
+                    <li><a href="#">Хабы</a>
+                    <li><a href="#">Компании</a>
+                    <li><a href="#">Пользователи</a>
+                    <li><a href="#">Q&amp;A</a>
+                    <li><a href="#">Песочница</a>
                 </ul>
             </nav>
             <section>
-                <h2>Инфо</h2>
+                <h1>Инфо</h1>
                 <ul>
-                    <li><a href=/ >О сайте</a>
-                    <li><a href=/ >Правила</a>
-                    <li><a href=/ >Помощь</a>
-                    <li><a href=/ >Соглашение</a>
+                    <li><a href="#">О сайте</a>
+                    <li><a href="#">Правила</a>
+                    <li><a href="#">Помощь</a>
+                    <li><a href="#">Соглашение</a>
                 </ul>
             </section>
+            </ul>
+            </nav>
             <section>
-                <h2>Услуги</h2>
+                <h1>Услуги</h1>
                 <ul>
-                    <li><a href=/ >Реклама</a>
-                    <li><a href=/ >Спец проэкты</a>
-                    <li><a href=/ >Тарифы</a>
-                    <li><a href=/ >Контент</a>
-                    <li><a href=/ >Семинары</a>
+                    <li><a href="#">Реклама</a>
+                    <li><a href="#">Спец проэкты</a>
+                    <li><a href="#">Тарифы</a>
+                    <li><a href="#">Контент</a>
+                    <li><a href="#">Семинары</a>
                 </ul>
             </section>
             </nav>
             <section>
-                <h2>Разное</h2>
+                <h1>Разное</h1>
                 <ul>
-                    <li><a href=/ >Приложение</a>
-                    <li><a href=/ >Тест-драйв</a>
-                    <li><a href=/ >Помощь по стартапам</a>
-                    <li><a href=/ >Работа в ІТ</a>
+                    <li><a href="#">Приложение</a>
+                    <li><a href="#">Тест-драйв</a>
+                    <li><a href="#">Помощь по стартапам</a>
+                    <li><a href="#">Работа в ІТ</a>
                 </ul>
             </section>
             <ul>
-                    <li><a href=/ >TM</a>
-                    <li><a href=/ >Служба поддержки</a>
-                    <li><a href=/ >Моб версия</a>
+                    <li><a href="#">TM</a>
+                    <li><a href="#">Служба поддержки</a>
+                    <li><a href="#">Моб версия</a>
               </ul>
             </section>
             <ul>
-                        <li><a href=/ target=_blank>getpocket.com</a>
-                        <li><a href=/ target=_blank>fb.com</a>
-                        <li><a href=/ target=_blank>vk.com</a>
+                        <li><a href="#" target=_blank>getpocket.com</a>
+                        <li><a href="#" target=_blank>fb.com</a>
+                        <li><a href="#" target=_blank>vk.com</a>
             </ul>
         </footer>
     </main>
+</body>
 </html>
