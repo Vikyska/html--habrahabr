@@ -80,16 +80,25 @@
       </nav>
       </aside>
 
-               <ul>
-                        <li><a href="#">link1</a><span></span>
-                        <li><a href="#">link2</a><span></span>
-                        <li><a href="#">link3</a><span></span>
-                        <li><a href="#">link4</a><span></span>
-                        <li><a href="#">link5</a><span></span>
-                    </ul>
-                </aside>
-            </aside>
-            <footer>
+               <aside>
+                <h1>Самое читаемое</h1>
+                <ul>
+                    <li><a href="#" role=button>Сейчас</a>
+                    <li><a href="#" role=button>Неделя</a>
+                    <li><a href="#" role=button>Месяц</a>
+                </ul>
+                <ul>
+                    <li>
+                        <span>
+                            +9
+                        </span>
+                        <article>
+                            <h1><a href="#" target=_blank>Бесплатные курсы</a></h1>
+                            <span>18.8k</span>
+                            <span>47</span>
+                            <span>125</span>
+                        </article>
+<footer>
                 <section>
                     <h1>Интересные публикации</h1>
                     <form action="#">
@@ -97,16 +106,23 @@
                         <input type="checkbox" value=HH>
                     </form>
                     <ul>
-                        <li><a href="#">link1</a><span></span>
-                        <li><a href="#">link2</a><span></span>
-                        <li><a href="#">link3</a><span></span>
+                        <li><a href="#">link1</a><span>12</span>
+                        <li><a href="#">link2</a><span>11</span>
+                        <li><a href="#">link3</a><span>8</span>
                     </ul>
-                    <footer>
+                </section>
+                <article>
+                    <!-- Yandex Direct adv -->
+                </article>
+            </footer>
+        </article>
+        <footer>
             <section>
                     <ul>
                         <li><a href="#">Войти</a>
                         <li><a href="#">Регистрация</a>
-                    </ul>
+</ul>
+
             </section>
             <nav>
                 <h1>Разделы</h1>
@@ -121,46 +137,42 @@
             </nav>
             <section>
                 <h1>Инфо</h1>
-                <ul>
+<ul>
                     <li><a href="#">О сайте</a>
                     <li><a href="#">Правила</a>
                     <li><a href="#">Помощь</a>
                     <li><a href="#">Соглашение</a>
                 </ul>
             </section>
-            </ul>
-            </nav>
-            <section>
+<section>
                 <h1>Услуги</h1>
-                <ul>
+<ul>
                     <li><a href="#">Реклама</a>
-                    <li><a href="#">Спец проэкты</a>
+                    <li><a href="#">Спец прэкты</a>
                     <li><a href="#">Тарифы</a>
                     <li><a href="#">Контент</a>
                     <li><a href="#">Семинары</a>
-                </ul>
+            </ul>
             </section>
-            </nav>
-            <section>
+<section>
                 <h1>Разное</h1>
-                <ul>
+<ul>
                     <li><a href="#">Приложение</a>
                     <li><a href="#">Тест-драйв</a>
-                    <li><a href="#">Помощь по стартапам</a>
-                    <li><a href="#">Работа в ІТ</a>
+                    <li><a href="#">Помощь стартапам</a>
+                    <li><a href="#">Работа в IT</a>
                 </ul>
             </section>
-            <ul>
-                    <li><a href="#">TM</a>
+            <section>
+                <h1>@TM</h1>
+<ul>
                     <li><a href="#">Служба поддержки</a>
-                    <li><a href="#">Моб версия</a>
-              </ul>
+                    <li><a href="#">Мобильная версия</a>
+                <li><a href=/ >github</a>
+		<li><a href=/ >fb</a>
+		<li><a href=/ >vk</a>
+                </ul>
             </section>
-            <ul>
-                        <li><a href="#" target=_blank>getpocket.com</a>
-                        <li><a href="#" target=_blank>fb.com</a>
-                        <li><a href="#" target=_blank>vk.com</a>
-            </ul>
         </footer>
     </main>
 </body>
