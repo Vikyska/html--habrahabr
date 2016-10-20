@@ -100,7 +100,7 @@
                             <span>47</span>
                             <span>125</span>
                         </article>
-                        </footer>
+                        
                    <article>
                    <footer>
                   <h1>Интересные публикации</h1>
