@@ -80,7 +80,8 @@
       </nav>
       </aside>
 
-               <aside>
+               <article>
+               <footer>
                 <h1>Самое читаемое</h1>
                 <ul>
                     <li><a href="#" role=button>Сейчас</a>
@@ -92,14 +93,16 @@
                         <span>
                             +9
                         </span>
-                        <article>
+                        </article>
+                        </ul> 
                             <h1><a href="#" target=_blank>Бесплатные курсы</a></h1>
                             <span>18.8k</span>
                             <span>47</span>
                             <span>125</span>
                         </article>
-<article>
-<footer>
+                        </footer>
+                   <article>
+                   <footer>
                   <h1>Интересные публикации</h1>
                    <ul>
                     <form action="#">
