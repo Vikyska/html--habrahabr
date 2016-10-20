@@ -88,17 +88,7 @@
                     <li><a href="#" role=button>Неделя</a>
                     <li><a href="#" role=button>Месяц</a>
                 </ul>
-                <ul>
-                    <li>
-                        <span>
-                            +9
-                        </span>
-                        </article>
-                        </ul> 
-                            <h1><a href="#" target=_blank>Бесплатные курсы</a></h1>
-                            <span>18.8k</span>
-                            <span>47</span>
-                            <span>125</span>
+                </footer>
                         </article>
                         
                    <article>
