@@ -79,7 +79,7 @@
       </ul>
       </nav>
       </aside>
-
+<footer>
                <aside>
                 <h1>Самое читаемое</h1>
                 <ul>
@@ -88,6 +88,7 @@
                     <li><a href="#" role=button>Месяц</a>
                 </ul>
                         </aside>
+</footer>
                         
                    <article>
                    <footer>
