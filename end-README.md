@@ -89,9 +89,8 @@
                 </ul>
                         </aside>
 </footer>
-                        
-                   <article>
-                   <footer>
+                    <footer>
+                  <aside>
                   <h1>Интересные публикации</h1>
                    <ul>
                     <form action="#">
@@ -104,7 +103,7 @@
                         <li><a href=/ >Бесплатные курсы</a>
                     </ul>
         </footer>
-        </article>
+        </aside>
         <footer>                               
                       <ul>
                         <li><a href="#">Войти</a>
