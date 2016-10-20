@@ -100,24 +100,24 @@
                         </article>
 <article>
 <footer>
-                <section>
-                    <h1>Интересные публикации</h1>
+                  <h1>Интересные публикации</h1>
+                   <ul>
                     <form action="#">
                         <input type="checkbox" value=GT>
                         <input type="checkbox" value=HH>
-                    </form>
-                    <ul>
+                    </form action="#">
+                    </ul>
+                      <ul>
                         <li><a href=/ >Бесплатные курсы</a>
                         <li><a href=/ >Бесплатные курсы</a>
                     </ul>
-                </section>
         </footer>
         </article>
-        <footer>
-                    <ul>
+        <footer>                               
+                      <ul>
                         <li><a href="#">Войти</a>
                         <li><a href="#">Регистрация</a>
-</ul>
+                        </ul>
             <nav>
                 <h1>Разделы</h1>
                 <ul>
@@ -162,5 +162,4 @@
                 </ul>
         </footer>
     </main>
-</body>
 </html>
