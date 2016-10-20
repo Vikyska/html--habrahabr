@@ -80,16 +80,14 @@
       </nav>
       </aside>
 
-               <article>
-               <footer>
+               <aside>
                 <h1>Самое читаемое</h1>
                 <ul>
                     <li><a href="#" role=button>Сейчас</a>
                     <li><a href="#" role=button>Неделя</a>
                     <li><a href="#" role=button>Месяц</a>
                 </ul>
-                </footer>
-                        </article>
+                        </aside>
                         
                    <article>
                    <footer>
