@@ -107,9 +107,8 @@
                         <input type="checkbox" value=HH>
                     </form>
                     <ul>
-                        <li><a href="#">link1</a><span>12</span>
-                        <li><a href="#">link2</a><span>11</span>
-                        <li><a href="#">link3</a><span>8</span>
+                        <li><a href=/ >Бесплатные курсы</a>
+                        <li><a href=/ >Бесплатные курсы</a>
                     </ul>
                 </section>
         </footer>
@@ -130,8 +129,9 @@
                     <li><a href="#">Песочница</a>
                 </ul>
             </nav>
-                <h1>Инфо</h1>
-<ul>
+                           
+            <h1>Инфо</h1>
+            <ul>
                     <li><a href="#">О сайте</a>
                     <li><a href="#">Правила</a>
                     <li><a href="#">Помощь</a>
